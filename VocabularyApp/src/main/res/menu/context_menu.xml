@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/context_menu_del"
+        android:title="删除"
+        android:showAsAction="always"/>
+
+    <item
+        android:id="@+id/context_menu_edit"
+        android:title="修改"
+        android:showAsAction="always"/>
+
+</menu>
